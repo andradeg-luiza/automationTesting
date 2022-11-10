@@ -46,66 +46,31 @@ Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | 
 
 #### :space_invader:Detalhes
 
-**Plugin:** Cucumber
-
-**Driver:** Este projeto está funcionando no ChromeDriver, mas você pode escolher qualquer navegador [Download](https://www.selenium.dev/downloads/)
-<p> Configurando Selenium no computador:
-<p>Fazer o download do Chrome Web Driver e adiconar o arquivo (descompactado) dentro da pasta "driver" na raíz do projeto 
-
-
-
 
 ## Estrutura de arquivos
 
 
 
     
-    src
-        |-- main
-        |  |-- java
-        |  |  |  |-- actions
-        |  |  |  |  |-- defaultpackage
-        |  |  |  |  |  |  |-- ChoosingProductsActions.java -- Mapeamento dos métodos de ações
+    XXX
+        |-- XXX
+        |  |-- XXX
+        |  |  |  |-- XXX
+        |  |  |  |  |-- XXX
+        |  |  |  |  |  |  |-- XXXX -- Esse arquivo contém ...
         
-        |  |  |  |  |  |-- pages
-        |  |  |  |  |  |  |-- ChoosingProductsPage.java -- Mapeamento dos elementos
+        |  |  |  |  |  |-- XXX
+        |  |  |  |  |  |  |-- CXXXX -- Esse arquivo contém...
         
-        |  |  |  |  |  |-- utils
-        |  |  |  |  |  |  |-- Configuracao.java -- Arquivo que mapeia os localizadores da página
-    
-    src
-        |-- test
-        |  |-- java
-        |  |  |  |  |-- defaultpackage
-        |  |  |  |  |  |  |-- TestChoosingProducts.java -- Arquivo que especifica o contexto comum aos casos de testes
-      
-
-        |  |  |  |  |  |-- stepdefinitions
-        |  |  |  |  |  |  |-- cenarioUm.java
-        |  |  |  |  |  |  |-- cenarioDois.java
-        |  |  |  |  |  |  |-- cenarioTres.java
-       
-
-       |  |  |  |  |  |-- Runner.java -- Arquivo que configura a inicialização do Java test
-       
-     src
-
-       |  |-- test
-       |  |  |-- resources
-       |  |  |  |  |  |-- features -- Gherkin com os casos de teste de acordo com a especificação do cliente   
-
-   
-  
- 
- 
- ------
+        |  |  |  |  |  |-- XXX
+        |  |  |  |  |  |  |-- XXX -- Esse arquivo contém...
 
 
 	
-### Assistir ao video do Projeto: [Youtube](https://www.youtube.com/watch?v=gMnCI-T4awo)
+### Assistir ao video do Projeto: [Youtube](Adicionar link)
 	
  ------
 	
-:speech_balloon: [Linkedin](https://www.linkedin.com/in/camilalnmoura/)
+:speech_balloon: [Linkedin](https://www.linkedin.com/in/andradegluiza/)
 
 
