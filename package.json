@@ -1,0 +1,24 @@
+{
+  "name": "automationtesting",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\"> Projeto automationTesting </h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andradeg-luiza/automationTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andradeg-luiza/automationTesting/issues"
+  },
+  "homepage": "https://github.com/andradeg-luiza/automationTesting#readme",
+  "dependencies": {
+    "cypress": "^3.6.0"
+  }
+}

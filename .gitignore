@@ -1,2 +1,2 @@
 #ignorar os arquivos relacionados ao curso
-versaoTeste.js
+/cypress/integration/examples
