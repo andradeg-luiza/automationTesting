@@ -23,12 +23,18 @@ Meu objetivo: Realizar um teste E2E da página https://demo.automationtesting.in
 
 #### :space_invader: Cenários [Link para levantamento de cenários](https://miro.com/app/board/uXjVPSselB8=/?moveToWidget=3458764539740067268&cot=14)
 
-	Feature: XXXXXXXXXXXXXXXXXXXXXXXXX
-		Scenario: 
-               Given XXXXX
-               When XXXXX
-               And XXXXXX
-               Then XXXXX
+    Feature: Create a new account
+
+        Scenario: Create a new account without picture
+                Given I fill all the fields
+                And click submit
+                Then I want to create a new account
+
+        Scenario: Create a new account with picture
+                Given I fill all the fields
+                And upload a picture
+                And click submit
+                Then I want to create a new account
            
 
                
