@@ -23,21 +23,15 @@ Meu objetivo: Realizar um teste E2E da página https://demoqa.com/
 
 #### :space_invader: Cenários [Link para levantamento de cenários](https://miro.com/app/board/uXjVPSselB8=/?moveToWidget=3458764539740067268&cot=14)
 
-    Feature: Create a new account
+    Feature: XXXXXXXXXXXXXXXX
 
-        Scenario: Create a new account without picture
-                Given I fill all the fields
-                And click submit
-                Then I want to create a new account
+        Scenario: XXXXXXXXXXX
+                Given XXXXXXXXXXX
+                And XXXXXXXXXXX
+                Then XXXXXXXXXXX
 
-        Scenario: Create a new account with picture
-                Given I fill all the fields
-                And upload a picture
-                And click submit
-                Then I want to create a new account
            
 
-               
  #### :space_invader: Pré-requisito
 
 Já deve ter instalado em seu computador:
@@ -54,22 +48,24 @@ Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | 
 
 
 ## Estrutura de arquivos
-
-
-
     
-    XXX
-        |-- XXX
-        |  |-- XXX
+    cypress
+        |-- fixtures
+        |  |-- example.json -- Esse arquivo contém ...
+        |-- integration
+        |  |-- components.feature -- Contém todos os cenários de testes relacionados a elementos
+        |-- plugins
+        |  |-- index.js -- Esse arquivo contém ...
+        |-- support
+        |  |-- elements
         |  |  |  |-- XXX
-        |  |  |  |  |-- XXX
-        |  |  |  |  |  |  |-- XXXX -- Esse arquivo contém ...
-        
-        |  |  |  |  |  |-- XXX
-        |  |  |  |  |  |  |-- CXXXX -- Esse arquivo contém...
-        
-        |  |  |  |  |  |-- XXX
-        |  |  |  |  |  |  |-- XXX -- Esse arquivo contém...
+        |  |-- pageObjects
+        |  |  |  |-- XXX
+        |  |-- steps
+        |  |  |  |-- components.js -- Contém todos os testes relacionados a elementos
+        |  |-- commands.js
+        |  |-- index.js
+
 
 
 	
