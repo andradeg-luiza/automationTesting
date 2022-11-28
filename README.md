@@ -5,7 +5,7 @@
 
 ## Automação de testes utilizando Cypress, Cucumber e JavaScript
 
-Meu objetivo: Realizar um teste E2E da página https://demo.automationtesting.in/Register.html
+Meu objetivo: Realizar um teste E2E da página https://demoqa.com/
 
 - X caso de teste
 - X cenários
